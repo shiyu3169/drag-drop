@@ -1,0 +1,27 @@
+.bg-blue {
+    background-color: #9acfea;
+}
+
+.bg-beige {
+    background-color: beige;
+}
+
+.full-screen {
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.height-100 {
+    height: 100%;
+}
+
+h3 {
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    z-index: 1;
+    white-space: nowrap;
+}
